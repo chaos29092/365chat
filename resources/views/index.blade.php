@@ -157,18 +157,5 @@
 </section>
 <!--ABout US-->
 
-<!--Paralax -->
-<section id="parallax" class="parallax">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12 text-center wow bounceIn">
-                <h2>我们帮助您提高网站转化率并且降低运营成本</h2>
-                <h1 class="margin10">200%</h1>
-                <a href="#." class="border_radius btn_common white_border margin10">马上试用</a>
-            </div>
-        </div>
-    </div>
-</section>
-<!--Paralax -->
 
 @endsection

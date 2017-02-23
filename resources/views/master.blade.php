@@ -69,8 +69,8 @@
                 <ul class="nav navbar-nav navbar-right" data-in="fadeInDown" data-out="fadeOut">
                     <li><a href="/">主页</a></li>
                     <li><a href="/features">功能</a></li>
-                    <li><a href="#">价格</a></li>
-                    <li><a href="#">帮助</a></li>
+                    <li><a href="/prices">价格</a></li>
+                    <li><a href="/faq">帮助</a></li>
                     <li><a href="#">马上免费试用</a></li>
                 </ul>
             </div>
@@ -82,7 +82,22 @@
 
 @yield('main')
 
+<!--Paralax -->
+<section id="parallax" class="parallax">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 text-center wow bounceIn">
 
+
+                <h2 class="margin10">让你的客户爱上你</h2>
+
+                <h3 class="margin10">试用七天，看看效果</h3>
+                <a href="#." class="border_radius btn_common white_border margin10">马上免费试用</a>
+            </div>
+        </div>
+    </div>
+</section>
+<!--Paralax -->
 
 <!--FOOTER-->
 <footer class="padding-top">
@@ -103,8 +118,8 @@
                 <h3 class="heading bottom25">快速导航<span class="divider-left"></span></h3>
                 <ul class="links">
                     <li><a href="/features"><i class="icon-chevron-small-right"></i>功能</a></li>
-                    <li><a href="#."><i class="icon-chevron-small-right"></i>价格</a></li>
-                    <li><a href="#."><i class="icon-chevron-small-right"></i>帮助</a></li>
+                    <li><a href="/prices"><i class="icon-chevron-small-right"></i>价格</a></li>
+                    <li><a href="/faq"><i class="icon-chevron-small-right"></i>帮助</a></li>
                     <li><a href="#."><i class="icon-chevron-small-right"></i>马上免费试用</a></li>
                 </ul>
             </div>

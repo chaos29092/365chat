@@ -10,7 +10,7 @@
                 <div class="col-md-3 col-sm-6 col-xs-6 counters-item text-center wow fadeInUp" data-wow-delay="300ms">
                     <i class="icon-checkmark3"></i>
                     <strong>效果付费</strong>
-                    <p>我们按合格询盘的数量来计费，所以您可以得到无限次的在线聊天服务，直到询盘达到目标</p>
+                    <p>我们按有效询盘的数量来计费，无限的接待次数，直到有效询盘达到套餐上限。</p>
                 </div>
                 <div class="col-md-3 col-sm-6 col-xs-6 counters-item text-center wow fadeInUp" data-wow-delay="400ms">
                     <i class="icon-lock"></i>
@@ -20,7 +20,7 @@
                 <div class="col-md-3 col-sm-6 col-xs-6 counters-item text-center wow fadeInUp" data-wow-delay="500ms">
                     <i class=" icon-icons20"></i>
                     <strong>转化翻倍</strong>
-                    <p>我们可以将您网站的转化率提高一倍，来用我们的免费试用看看差异，没有任何附加条件！</p>
+                    <p>我们可以将您网站的转化率提高一倍，快来免费试用看看差异，没有任何附加条件！</p>
                 </div>
                 <div class="col-md-3 col-sm-6 col-xs-6 counters-item text-center wow fadeInUp" data-wow-delay="600ms">
                     <i class="icon-happy"></i>
@@ -38,7 +38,7 @@
             <div class="row">
 
                 <div class="col-md-12 text-center wow fadeInDown">
-                    <h2 class="heading">全部服务列表<span class="divider-center"></span></h2>
+                    <h2 class="heading">全部功能列表<span class="divider-center"></span></h2>
                     <p class="heading_space margin10">为中小外贸企业量身打造</p>
                 </div>
 
@@ -83,7 +83,7 @@
                             <span class="post">还在浪费时间吗？</span>
                         </div>
                         <h3>垃圾信息过滤</h3>
-                        <p class="bottom20 margin10">网站访客总是问你与产品无关的问题？我们处理他们，并过滤掉他们，只保留真正有意向的客户。不要再把你的时间浪费在过滤垃圾信息上。</p>
+                        <p class="bottom20 margin10">网站访客总是问你与产品无关的问题？我们来应对，并过滤掉这类信息，只保留真正有意向的客户。不要再把你的时间浪费在过滤垃圾信息上。</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-4">
@@ -93,7 +93,7 @@
                             <span class="post">业界领先的聊天软件</span>
                         </div>
                         <h3>免费的聊天软件</h3>
-                        <p class="bottom20 margin10">我们的服务套餐附带了聊天软件。我们使用业界领先的即时聊天软件。我们为您免费提供原价近300的软件。</p>
+                        <p class="bottom20 margin10">我们的服务套餐附带了聊天软件。我们使用业界领先的即时聊天软件。</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-4">
