@@ -96,34 +96,19 @@
         <div class="row">
             <div class="icon_wrap padding-bottom-half clearfix">
                 <div class="col-sm-4 icon_box text-center heading_space wow fadeInUp" data-wow-delay="300ms">
-                    <i class="icon-icons9"></i>
-                    <h4 class="text-capitalize bottom20 margin10">无限功能</h4>
-                    <p class="no_bottom">啊，这是功能1</p>
-                </div>
-                <div class="col-sm-4 icon_box text-center heading_space wow fadeInUp" data-wow-delay="400ms">
-                    <i class="icon-icons9"></i>
-                    <h4 class="text-capitalize bottom20 margin10">Unlimited Features</h4>
-                    <p class="no_bottom">Keep away from people who try to belittle your ambitions. Small people always do that but the really great.</p>
-                </div>
-                <div class="col-sm-4 icon_box text-center heading_space wow fadeInUp" data-wow-delay="500ms">
                     <i class="icon-icons20"></i>
-                    <h4 class="text-capitalize bottom20 margin10">Unlimited Features</h4>
-                    <p class="no_bottom">Keep away from people who try to belittle your ambitions. Small people always do that but the really great.</p>
-                </div>
-                <div class="col-sm-4 icon_box text-center heading_space wow fadeInUp" data-wow-delay="600ms">
-                    <i class="icon-globe"></i>
-                    <h4 class="text-capitalize bottom20 margin10">Unlimited Features</h4>
-                    <p class="no_bottom">Keep away from people who try to belittle your ambitions. Small people always do that but the really great.</p>
+                    <h4 class="text-capitalize bottom20 margin10">永远在线</h4>
+                    <p class="no_bottom">为您的网站访问者提供24×7的客服支持。不会再因为时差而错过任何一个客户。</p>
                 </div>
                 <div class="col-sm-4 icon_box text-center heading_space wow fadeInUp" data-wow-delay="400ms">
                     <i class="icon-layers"></i>
-                    <h4 class="text-capitalize bottom20 margin10">Unlimited Features</h4>
-                    <p class="no_bottom">Keep away from people who try to belittle your ambitions. Small people always do that but the really great.</p>
+                    <h4 class="text-capitalize bottom20 margin10">海量询盘</h4>
+                    <p class="no_bottom">立竿见影！使用我们的服务，高质量询盘数马上翻倍。</p>
                 </div>
                 <div class="col-sm-4 icon_box text-center heading_space wow fadeInUp" data-wow-delay="500ms">
-                    <i class="icon-laptop"></i>
-                    <h4 class="text-capitalize bottom20 margin10">Unlimited Features</h4>
-                    <p class="no_bottom">Keep away from people who try to belittle your ambitions. Small people always do that but the really great.</p>
+                    <i class="icon-smile"></i>
+                    <h4 class="text-capitalize bottom20 margin10">免费试用</h4>
+                    <p class="no_bottom">我们提供长达七天的免费试用，先看效果再付费，来试试吧！</p>
                 </div>
             </div>
         </div>
@@ -131,34 +116,35 @@
     <div class="container margin_top">
         <div class="row">
             <div class="col-md-7 col-sm-6 priorty wow fadeInLeft" data-wow-delay="300ms">
-                <h2 class="heading bottom25">Welcome to Edua Theme <span class="divider-left"></span></h2>
-                <p class="half_space">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                <p>consectetur id. Aenean sit amet massa eu velit commodo cursus fringilla a tellus. Morbi eros urna, mollis porta feugiat non, ornare eu augue.
-                    Sed rhoncus est sit amet diam tempus, et tristique est vive, sectur at dapibus id, luctus at odio. Proin mattis congue tristique
-                    eu augue. Sed rhoncus est.</p>
+                <h2 class="heading bottom25">为什么外贸企业都在用小蚁客服？<span class="divider-left"></span></h2>
+                <p class="half_space">
+                    您专属的24×7英语客服，经过专业的训练，显著提高网站转化率，获得海量询盘。
+                    <br><br>
+                    我们可以帮您获得：由于无法立即获得实时帮助而放弃您的网站的成千上万的客户。
+                </p>
                 <div class="row">
                     <div class="col-md-6">
                         <div class="about-post">
                             <a href="#." class="border_radius"><img src="images/hands.png" alt="hands"></a>
-                            <h4>Good Planning</h4>
-                            <p>Renean sit amet massa</p>
+                            <h4>效果拔群</h4>
+                            <p>平均百分之二百的转化率提升</p>
                         </div>
                         <div class="about-post">
                             <a href="#." class="border_radius"><img src="images/awesome.png" alt="hands"></a>
-                            <h4>Happy Students</h4>
-                            <p>Renean sit amet massa</p>
+                            <h4>免费试用</h4>
+                            <p>7天免费试用，绝无强行推销</p>
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="about-post">
                             <a href="#." class="border_radius"><img src="images/maintenance.png" alt="hands"></a>
-                            <h4>Our Courses</h4>
-                            <p>Renean sit amet massa</p>
+                            <h4>节约成本</h4>
+                            <p>成本远低于自建客服团队</p>
                         </div>
                         <div class="about-post">
                             <a href="#." class="border_radius"><img src="images/home.png" alt="hands"></a>
-                            <h4>Our Teachers</h4>
-                            <p>Renean sit amet massa</p>
+                            <h4>真人客服</h4>
+                            <p>以英语为母语的专业客服，沟通顺畅</p>
                         </div>
                     </div>
                 </div>
@@ -171,340 +157,18 @@
 </section>
 <!--ABout US-->
 
-
-<!-- Courses -->
-<section id="courses" class="padding parallax">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                <h2 class="heading heading_space wow fadeInDown">Popular Courses<span class="divider-left"></span></h2>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-12">
-                <div class="slider_wrapper">
-                    <div id="course_slider" class="owl-carousel">
-                        <div class="item">
-                            <div class="image bottom20">
-                                <img src="images/course1.jpg" alt="Courses" class="img-responsive border_radius">
-                            </div>
-                            <h3 class="bottom15"><a href="course_detail.html">Introduction LearnPress</a></h3>
-                            <p class="bottom15">We offer the most complete house renovating services in the country, from kitchen design to bathroom remodeling.</p>
-                            <a href="course_detail.html" class="btn_common blue border_radius">Read More</a>
-                        </div>
-                        <div class="item">
-                            <div class="image bottom20">
-                                <img src="images/course2.jpg" alt="Courses" class="img-responsive border_radius">
-                            </div>
-                            <h3 class="bottom15"><a href="course_detail.html">Introduction LearnPress</a></h3>
-                            <p class="bottom15">We offer the most complete house renovating services in the country, from kitchen design to bathroom remodeling.</p>
-                            <a href="course_detail.html" class="btn_common blue border_radius">Read More</a>
-                        </div>
-                        <div class="item">
-                            <div class="image bottom20">
-                                <img src="images/course3.jpg" alt="Courses" class="img-responsive border_radius">
-                            </div>
-                            <h3 class="bottom15"><a href="course_detail.html">Introduction LearnPress</a></h3>
-                            <p class="bottom15">We offer the most complete house renovating services in the country, from kitchen design to bathroom remodeling.</p>
-                            <a href="course_detail.html" class="btn_common blue border_radius">Read More</a>
-                        </div>
-                        <div class="item">
-                            <div class="image bottom20">
-                                <img src="images/course1.jpg" alt="Courses" class="img-responsive border_radius">
-                            </div>
-                            <h3 class="bottom15"><a href="course_detail.html">Introduction LearnPress</a></h3>
-                            <p class="bottom15">We offer the most complete house renovating services in the country, from kitchen design to bathroom remodeling.</p>
-                            <a href="course_detail.html" class="btn_common blue border_radius">Read More</a>
-                        </div>
-                        <div class="item">
-                            <div class="image bottom20">
-                                <img src="images/course2.jpg" alt="Courses" class="img-responsive border_radius">
-                            </div>
-                            <h3 class="bottom15"><a href="course_detail.html">Introduction LearnPress</a></h3>
-                            <p class="bottom15">We offer the most complete house renovating services in the country, from kitchen design to bathroom remodeling.</p>
-                            <a href="course_detail.html" class="btn_common blue border_radius">Read More</a>
-                        </div>
-                        <div class="item">
-                            <div class="image bottom20">
-                                <img src="images/course3.jpg" alt="Courses" class="img-responsive border_radius">
-                            </div>
-                            <h3 class="bottom15"><a href="course_detail.html">Introduction LearnPress</a></h3>
-                            <p class="bottom15">We offer the most complete house renovating services in the country, from kitchen design to bathroom remodeling.</p>
-                            <a href="course_detail.html" class="btn_common blue border_radius">Read More</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- Courses -->
-
-
-
-
-<!--Fun Facts-->
-<section id="facts" class="padding">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12 text-center wow fadeInDown">
-                <h2 class="heading">Education Theme<span class="divider-center"></span></h2>
-                <p class="heading_space margin10">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-            </div>
-        </div>
-        <div class="row number-counters">
-            <div class="col-md-2 col-sm-4">
-                <div class="counters-item">
-                    <i class="icon-checkmark3"></i>
-                    <strong data-to="1235">0</strong>
-                    <!-- Set Your Number here. i,e. data-to="56" -->
-                    <p>Project Completed</p>
-                </div>
-                <div class="counters-item last">
-                    <i class="icon-trophy"></i>
-                    <strong data-to="78">0</strong>
-                    <p>Awards Won</p>
-                </div>
-            </div>
-            <div class="col-md-7 col-sm-4">
-                <div class="fact-image">
-                    <img src="images/fun-facts.png" alt=" some facts" class="img-responsive">
-                </div>
-            </div>
-            <div class="col-md-3 col-sm-4">
-                <div class="counters-item">
-                    <i class=" icon-icons20"></i>
-                    <strong data-to="186">0</strong>
-                    <p>Hours of Work / Month</p>
-                </div>
-                <div class="counters-item last">
-                    <i class="icon-happy"></i>
-                    <strong data-to="89">0</strong>
-                    <p>Satisfied Clients</p>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
-<!--Customers Review-->
-<section id="reviews" class="padding bg_light">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12 text-center wow fadeInDown">
-                <h2 class="heading heading_space">What People say <span class="divider-center"></span></h2>
-                <div id="review_slider" class="owl-carousel text-center">
-                    <div class="item">
-                        <h4>John Smith</h4>
-                        <p>Ditector Shangha</p>
-                        <img src="images/customer1.png" class="client_pic border_radius" alt="costomer">
-                        <p>I've been happy with the services provided by Edua LLC. Scooter Libby has been wonderful! He has returned my calls quickly, and he answered all my questions. This is required when, for example, the final text is not yet available. We are here to help you from the initial phase to the final Edua phase.</p>
-                    </div>
-                    <div class="item">
-                        <h4>John Smith</h4>
-                        <p>Ditector Shangha</p>
-                        <img src="images/customer1.png" class="client_pic border_radius" alt="costomer">
-                        <p>I've been happy with the services provided by Edua LLC. Scooter Libby has been wonderful! He has returned my calls quickly, and he answered all my questions. This is required when, for example, the final text is not yet available. We are here to help you from the initial phase to the final Edua phase.</p>
-                    </div>
-                    <div class="item">
-                        <h4>John Smith</h4>
-                        <p>Ditector Shangha</p>
-                        <img src="images/customer1.png" class="client_pic border_radius" alt="costomer">
-                        <p>I've been happy with the services provided by Edua LLC. Scooter Libby has been wonderful! He has returned my calls quickly, and he answered all my questions. This is required when, for example, the final text is not yet available. We are here to help you from the initial phase to the final Edua phase.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
-
-
-
-<!--Pricings-->
-<section class="padding" id="pricing">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12 text-center wow fadeInDown">
-                <h2 class="heading">Pricing Tables <span class="divider-center"></span></h2>
-                <p class="heading_space margin10">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-            </div>
-            <div class="col-md-12">
-                <div class="pricing">
-                    <div class="pricing_item wow fadeInUp" data-wow-delay="300ms">
-                        <h3>Basic</h3>
-                        <div class="pricing_price"><span class="pricing_currency">$</span>9.90</div>
-                        <p class="pricing_sentence">Perfect for single freelancers who work by themselves</p>
-                        <ul class="pricing_list">
-                            <li class="pricing_feature">Support forum</li>
-                            <li class="pricing_feature">Free hosting</li>
-                            <li class="pricing_feature">40MB of storage space</li>
-                            <li>Social media integration</li>
-                            <li>1GB of storage space</li>
-                        </ul>
-                        <a class="btn_common text-center" href="#.">Choose plan</a>
-                    </div>
-                    <div class="pricing_item active wow fadeInUp" data-wow-delay="400ms">
-                        <h3>Popular</h3>
-                        <div class="pricing_price"><span class="pricing_currency">$</span>29,90</div>
-                        <p class="pricing_sentence">Suitable for small businesses with up to 5 employees</p>
-                        <ul class="pricing_list">
-                            <li class="pricing_feature">Unlimited calls</li>
-                            <li class="pricing_feature">Free hosting</li>
-                            <li class="pricing_feature">10 hours of support</li>
-                            <li class="pricing_feature">Social media integration</li>
-                            <li class="pricing_feature">1GB of storage space</li>
-                        </ul>
-                        <a class="btn_common text-center" href="#.">Choose plan</a>
-                    </div>
-                    <div class="pricing_item dark_gray wow fadeInUp" data-wow-delay="500ms">
-                        <h3>Premier</h3>
-                        <div class="pricing_price"><span class="pricing_currency">$</span>59,90</div>
-                        <p class="pricing_sentence">Great for large businesses with more than 5 employees</p>
-                        <ul class="pricing_list">
-                            <li class="pricing_feature">Unlimited calls</li>
-                            <li class="pricing_feature">Free hosting</li>
-                            <li class="pricing_feature">Unlimited hours of support</li>
-                            <li class="pricing_feature">Social media integration</li>
-                            <li class="pricing_feature">Unlimited storage space</li>
-                        </ul>
-                        <a class="btn_common text-center" href="#.">Choose plan</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!--Pricings-->
-
-
 <!--Paralax -->
 <section id="parallax" class="parallax">
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center wow bounceIn">
-                <h2>We Believe that Education for Everyone Since</h2>
-                <h1 class="margin10">1942</h1>
-                <a href="#." class="border_radius btn_common white_border margin10">Gaet a Quote</a>
+                <h2>我们帮助您提高网站转化率并且降低运营成本</h2>
+                <h1 class="margin10">200%</h1>
+                <a href="#." class="border_radius btn_common white_border margin10">马上试用</a>
             </div>
         </div>
     </div>
 </section>
 <!--Paralax -->
 
-
-<!-- News-->
-<section id="news" class="padding">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12 wow fadeInDown">
-                <h2 class="heading heading_space">Latest News <span class="divider-left"></span></h2>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-12">
-                <div class="slider_wrapper">
-                    <div id="news_slider" class="owl-carousel">
-                        <div class="item">
-                            <div class="content_wrap">
-                                <div class="image">
-                                    <img src="images/news1.jpg" alt="Edua" class="img-responsive border_radius">
-                                </div>
-                                <div class="news_box border_radius">
-                                    <h4><a href="blog_detail.html">4 Springtime Color Schemes to Try at Home</a></h4>
-                                    <ul class="commment">
-                                        <li><a href="#."><i class="icon-icons20"></i>June 6, 2016</a></li>
-                                        <li><a href="#."><i class="icon-comment"></i> 02</a></li>
-                                    </ul>
-                                    <p>We offer the most complete house Services in the country...</p>
-                                    <a href="blog_detail.html" class="readmore">Read More</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="content_wrap">
-                                <div class="image">
-                                    <img src="images/news2.jpg" alt="Edua" class="img-responsive border_radius">
-                                </div>
-                                <div class="news_box border_radius">
-                                    <h4><a href="blog_detail.html"> Springtime Color Schemes to Try at Home</a></h4>
-                                    <ul class="commment">
-                                        <li><a href="#."><i class="icon-icons20"></i>June 6, 2016</a></li>
-                                        <li><a href="#."><i class="icon-comment"></i> 02</a></li>
-                                    </ul>
-                                    <p>We offer the most complete house Services in the country...</p>
-                                    <a href="blog_detail.html" class="readmore">Read More</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="content_wrap">
-                                <div class="image">
-                                    <img src="images/news3.jpg" alt="Edua" class="img-responsive border_radius">
-                                </div>
-                                <div class="news_box border_radius">
-                                    <h4><a href="blog_detail.html">4 Springtime Color Schemes to Try at Home</a></h4>
-                                    <ul class="commment">
-                                        <li><a href="#."><i class="icon-icons20"></i>June 6, 2016</a></li>
-                                        <li><a href="#."><i class="icon-comment"></i> 02</a></li>
-                                    </ul>
-                                    <p>We offer the most complete house Services in the country...</p>
-                                    <a href="blog_detail.html" class="readmore">Read More</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="content_wrap">
-                                <div class="image">
-                                    <img src="images/news1.jpg" alt="Edua" class="img-responsive border_radius">
-                                </div>
-                                <div class="news_box border_radius">
-                                    <h4><a href="blog_detail.html">4 Springtime Color Schemes to Try at Home</a></h4>
-                                    <ul class="commment">
-                                        <li><a href="#."><i class="icon-icons20"></i>June 6, 2016</a></li>
-                                        <li><a href="#."><i class="icon-comment"></i> 02</a></li>
-                                    </ul>
-                                    <p>We offer the most complete house Services in the country...</p>
-                                    <a href="blog_detail.html" class="readmore">Read More</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="content_wrap">
-                                <div class="image">
-                                    <img src="images/news2.jpg" alt="Edua" class="img-responsive border_radius">
-                                </div>
-                                <div class="news_box border_radius">
-                                    <h4><a href="blog_detail.html">4 Springtime Color Schemes to Try at Home</a></h4>
-                                    <ul class="commment">
-                                        <li><a href="#."><i class="icon-icons20"></i>June 6, 2016</a></li>
-                                        <li><a href="#."><i class="icon-comment"></i> 02</a></li>
-                                    </ul>
-                                    <p>We offer the most complete house Services in the country...</p>
-                                    <a href="blog_detail.html" class="readmore">Read More</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="content_wrap">
-                                <div class="image">
-                                    <img src="images/news3.jpg" alt="Edua" class="img-responsive border_radius">
-                                </div>
-                                <div class="news_box border_radius">
-                                    <h4><a href="blog_detail.html">4 Springtime Color Schemes to Try at Home</a></h4>
-                                    <ul class="commment">
-                                        <li><a href="#."><i class="icon-icons20"></i>June 6, 2016</a></li>
-                                        <li><a href="#."><i class="icon-comment"></i> 02</a></li>
-                                    </ul>
-                                    <p>We offer the most complete house Services in the country...</p>
-                                    <a href="blog_detail.html" class="readmore">Read More</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
 @endsection
