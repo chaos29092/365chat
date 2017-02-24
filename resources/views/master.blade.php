@@ -71,7 +71,7 @@
                     <li><a href="/features">功能</a></li>
                     <li><a href="/prices">价格</a></li>
                     <li><a href="/faq">帮助</a></li>
-                    <li><a href="#">马上免费试用</a></li>
+                    <li><a href="/contact">马上免费试用</a></li>
                 </ul>
             </div>
         </div>
@@ -92,7 +92,7 @@
                 <h2 class="margin10">让你的客户爱上你</h2>
 
                 <h3 class="margin10">试用七天，看看效果</h3>
-                <a href="#." class="border_radius btn_common white_border margin10">马上免费试用</a>
+                <a href="/contact" class="border_radius btn_common white_border margin10">马上免费试用</a>
             </div>
         </div>
     </div>
@@ -103,10 +103,9 @@
 <footer class="padding-top">
     <div class="container">
         <div class="row">
-            <div class="col-md-4 col-sm-4 footer_panel bottom25">
+            <div class="col-md-4 col-sm-4 footer_panel bottom5">
                 <h3 class="heading bottom25">关于我们<span class="divider-left"></span></h3>
-                <a href="index.html" class="footer_logo bottom25"><img src="images/logo-white.png" alt="Edua"></a>
-                <p>我们专注于服务中小外贸企业，提供专业的网站客服外包服务。提高网站转化率，获得海量询盘，降低企业运营成本。</p>
+                <p>小蚁客服专注于服务中小外贸企业，提供专业的网站客服外包服务。提高网站转化率，获得海量询盘，降低企业运营成本。</p>
                 <ul class="social_icon top25">
                     <li><a href="#." class="mail"><i class="icon-mail"></i></a></li>
                     <li><a href="#." class="phone"><i class="icon-phone"></i></a></li>
@@ -114,18 +113,17 @@
                     <li><a href="#." class="wechat"><i class="icon-bubbles4"></i></a></li>
                 </ul>
             </div>
-            <div class="col-md-4 col-sm-4 footer_panel bottom25">
+            <div class="col-md-4 col-sm-4 footer_panel bottom5">
                 <h3 class="heading bottom25">快速导航<span class="divider-left"></span></h3>
                 <ul class="links">
                     <li><a href="/features"><i class="icon-chevron-small-right"></i>功能</a></li>
                     <li><a href="/prices"><i class="icon-chevron-small-right"></i>价格</a></li>
                     <li><a href="/faq"><i class="icon-chevron-small-right"></i>帮助</a></li>
-                    <li><a href="#."><i class="icon-chevron-small-right"></i>马上免费试用</a></li>
+                    <li><a href="/contact"><i class="icon-chevron-small-right"></i>马上免费试用</a></li>
                 </ul>
             </div>
-            <div class="col-md-4 col-sm-4 footer_panel bottom25">
+            <div class="col-md-4 col-sm-4 footer_panel bottom5">
                 <h3 class="heading bottom25">联系我们<span class="divider-left"></span></h3>
-                <p class=" address"><i class="icon-map-pin"></i>郑州电子商务产业园</p>
                 <p class=" address"><i class="icon-mail"></i><a href="mailto:Edua@info.com">Edua@info.com</a></p>
                 <p class=" address"><i class="icon-smile"></i>客服QQ：520</p>
                 <img src="images/footer-map.png" alt="we are here" class="img-responsive">
