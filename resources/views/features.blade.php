@@ -18,7 +18,7 @@
                     <p>我们非常重视安全和隐私。所有聊天都通过SSL进行。我们保证不会与第三方共享任何数据。</p>
                 </div>
                 <div class="col-md-3 col-sm-6 col-xs-6 counters-item text-center wow fadeInUp" data-wow-delay="500ms">
-                    <i class=" icon-icons20"></i>
+                    <i class=" icon-arrow-up2"></i>
                     <strong>转化翻倍</strong>
                     <p>我们可以将您网站的转化率提高一倍，快来免费试用看看差异，没有任何附加条件！</p>
                 </div>
@@ -69,7 +69,7 @@
                         <p class="no_bottom">我们保证您的所有网站访问者将被以友好和专业的方式对待。</p>
                     </div>
                     <div class="col-sm-4 icon_box text-center heading_space wow fadeInUp" data-wow-delay="500ms">
-                        <i class="icon-clock"></i>
+                        <i class="icon-icons20"></i>
                         <h4 class="text-capitalize bottom20 margin10">24×7在线</h4>
                         <p class="no_bottom">由人工智能算法辅助的24×7在线真人客服，沟通流畅。</p>
                     </div>

@@ -40,13 +40,13 @@
             <div class="col-md-12">
                 <div class="pull-left">
                     <span class="info"><a href="#."> 有任何问题?</a></span>
-                    <span class="info"><i class="icon-phone2"></i>(654) 332-112-222</span>
+                    {{--<span class="info"><i class="icon-phone2"></i>(654) 332-112-222</span>--}}
                     <span class="info"><i class="icon-mail"></i>support@edua.com</span>
                 </div>
                 <ul class="social_top pull-right">
                     <li><a href="#."><i class="icon-mail"></i></a></li>
-                    <li><a href="#."><i class="icon-phone"></i></a></li>
-                    <li><a href="#."><i class="icon-bubble2"></i></a></li>
+                    {{--<li><a href="#."><i class="icon-phone"></i></a></li>--}}
+                    <li><a href="tencent://message/?uin=2837822473&Site=小蚁客服&Menu=yes"><i class="icon-bubbles4"></i></a></li>
                 </ul>
             </div>
         </div>
@@ -61,8 +61,8 @@
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
                     <i class="fa fa-bars"></i>
                 </button>
-                <a class="navbar-brand" href="index.html"><img src="images/logo-white.png" alt="logo" class="logo logo-display">
-                    <img src="images/logo.png" class="logo logo-scrolled" alt="">
+                <a class="navbar-brand" href="/"><img src="{{asset('images/logo-white.png')}}" alt="logo" class="logo logo-display">
+                    <img src="{{asset('images/logo.png')}}" class="logo logo-scrolled" alt="">
                 </a>
             </div>
             <div class="collapse navbar-collapse" id="navbar-menu">
@@ -108,9 +108,9 @@
                 <p>小蚁客服专注于服务中小外贸企业，提供专业的网站客服外包服务。提高网站转化率，获得海量询盘，降低企业运营成本。</p>
                 <ul class="social_icon top25">
                     <li><a href="#." class="mail"><i class="icon-mail"></i></a></li>
-                    <li><a href="#." class="phone"><i class="icon-phone"></i></a></li>
-                    <li><a href="#." class="bubble2"><i class="icon-bubble2"></i></a></li>
-                    <li><a href="#." class="wechat"><i class="icon-bubbles4"></i></a></li>
+                    {{--<li><a href="#." class="phone"><i class="icon-phone"></i></a></li>--}}
+                    {{--<li><a href="#." class="bubble2"><i class="icon-bubble2"></i></a></li>--}}
+                    <li><a href="tencent://message/?uin=2837822473&Site=小蚁客服&Menu=yes" class="QQ"><i class="icon-bubbles4"></i></a></li>
                 </ul>
             </div>
             <div class="col-md-4 col-sm-4 footer_panel bottom5">
@@ -124,8 +124,9 @@
             </div>
             <div class="col-md-4 col-sm-4 footer_panel bottom5">
                 <h3 class="heading bottom25">联系我们<span class="divider-left"></span></h3>
+
+                <p class=" address"><i class="icon-bubbles4"></i>客服QQ：<a href="tencent://message/?uin=2837822473&Site=小蚁客服&Menu=yes">2837822473</a></p>
                 <p class=" address"><i class="icon-mail"></i><a href="mailto:Edua@info.com">Edua@info.com</a></p>
-                <p class=" address"><i class="icon-smile"></i>客服QQ：520</p>
                 <img src="images/footer-map.png" alt="we are here" class="img-responsive">
             </div>
         </div>
@@ -135,7 +136,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center">
-                <p>Copyright &copy; 2016 <a href="#.">Edua</a>. all rights reserved.</p>
+                <p>Copyright &copy; 2017 <a href="/">xiaoyi</a>. all rights reserved.</p>
             </div>
         </div>
     </div>

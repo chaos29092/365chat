@@ -9,7 +9,7 @@
             <!-- SLIDE  -->
             <li data-transition="fade">
                 <!-- MAIN IMAGE -->
-                <img src="images/banner1.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgparallax="10" class="rev-slidebg">
+                <img src="{{asset('images/banner1.jpg')}}" alt="" data-bgposition="center center" data-bgfit="cover" data-bgparallax="10" class="rev-slidebg">
                 <!-- LAYER NR. 1 -->
                 <div class="tp-caption tp-resizeme"
                      data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
@@ -20,7 +20,7 @@
                      data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;"
                      data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
                      data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
-                     data-start="800"><h1>最好的在线学习</h1>
+                     data-start="800"><h1>您的专属24×7外贸客服</h1>
                 </div>
                 <div class="tp-caption tp-resizeme"
                      data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
@@ -30,7 +30,7 @@
                      data-transform_idle="o:1;"
                      data-transform_in="opacity:0;s:1000;e:Power2.easeInOut;"
                      data-transform_out="opacity:0;s:1000;s:1000;"
-                     data-start="1500"><p>Your chance to be a trending expert in IT industries and make a successful <br/> career after completion of our courses.</p>
+                     data-start="1500"><p>小蚁客服专注于服务中小外贸企业，提供专业的英语客服外包服务。提高网站转化率，获得海量询盘，降低企业运营成本。</p>
                 </div>
                 <div class="tp-caption  tp-resizeme"
                      data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
@@ -43,13 +43,13 @@
                      data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
                      data-mask_out="x:0;y:0;s:inherit;e:inherit;"
                      data-start="2000">
-                    <a href="#." class="border_radius btn_common white_border">our services</a>
-                    <a href="#." class="border_radius btn_common blue">Get a quote</a>
+                    <a href="/faq" class="border_radius btn_common white_border">查看帮助</a>
+                    <a href="/contact" class="border_radius btn_common blue">立即免费试用</a>
                 </div>
             </li>
 
             <li data-transition="fade">
-                <img src="images/banner2.jpg"  alt="" data-bgposition="center center" data-bgfit="cover" data-bgparallax="10" class="rev-slidebg">
+                <img src="{{asset('images/banner2.jpg')}}"  alt="" data-bgposition="center center" data-bgfit="cover" data-bgparallax="10" class="rev-slidebg">
                 <div class="tp-caption tp-resizeme"
                      data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
                      data-y="['326','270','270','150']" data-voffset="['0','0','0','0']"
@@ -59,7 +59,7 @@
                      data-transform_in="z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;"
                      data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
                      data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
-                     data-start="800"><h1>Take The First Step</h1>
+                     data-start="800"><h1>按效果付费</h1>
                 </div>
                 <div class="tp-caption tp-resizeme"
                      data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
@@ -69,7 +69,7 @@
                      data-transform_idle="o:1;"
                      data-transform_in="opacity:0;s:1000;e:Power2.easeInOut;"
                      data-transform_out="opacity:0;s:1000;s:1000;"
-                     data-start="1500"><p>Your chance to be a trending expert in IT industries and make a successful <br/> career after completion of our courses.</p>
+                     data-start="1500"><p>我们只对有效询盘计费，您再也不用担心白花钱没效果了。</p>
                 </div>
                 <div class="tp-caption  tp-resizeme"
                      data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
@@ -82,7 +82,7 @@
                      data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
                      data-mask_out="x:0;y:0;s:inherit;e:inherit;"
                      data-start="2000">
-                    <a href="#." class="border_radius btn_common blue">Get a quote</a>
+                    <a href="/contact" class="border_radius btn_common blue">立即免费试用</a>
                 </div>
             </li>
         </ul>
