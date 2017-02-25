@@ -69,7 +69,7 @@
                      data-transform_idle="o:1;"
                      data-transform_in="opacity:0;s:1000;e:Power2.easeInOut;"
                      data-transform_out="opacity:0;s:1000;s:1000;"
-                     data-start="1500"><p>我们只对有效询盘计费，您再也不用担心白花钱没效果了。</p>
+                     data-start="1500"><p>只对有效询盘计费，让你的每一分钱都有价值。</p>
                 </div>
                 <div class="tp-caption  tp-resizeme"
                      data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
