@@ -1,4 +1,6 @@
 @extends('master')
+@section('title',"小蚁客服 - 功能")
+@section('description',"小蚁客服，功能列表，全部功能")
 
 @section('main')
 

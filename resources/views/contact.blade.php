@@ -1,4 +1,6 @@
 @extends('master')
+@section('title',"小蚁客服 - 联系我们")
+@section('description',"小蚁客服，联系我们，免费试用")
 
 @section('main')
     <!--Page Header-->
@@ -31,7 +33,7 @@
                     <div class="address">
                         <i class="icon icon-mail border_radius"></i>
                         <h4>客服邮箱：</h4>
-                        <p><a href="mailto:Edua@info.com">Edua@info.com</a></p>
+                        <p><a href="mailto:info@xiaoyichat.com">info@xiaoyichat.com</a></p>
                     </div>
                     {{--<div class="address">--}}
                         {{--<i class="icon icon-phone border_radius"></i>--}}
@@ -42,7 +44,7 @@
                 <div class="col-md-8 wow fadeInRight" data-wow-delay="600ms">
                     <h2 class="heading heading_space">如何试用<span class="divider-left"></span></h2>
                     <p>
-                        1.如果您网站月询盘数量在30以上，即可联系我们的<a href="tencent://message/?uin=2837822473&Site=小蚁客服&Menu=yes">客服QQ</a>或<a href="mailto:Edua@info.com">发送邮件</a>申请免费试用。<br><br>
+                        1.如果您网站月询盘数量在30以上，即可联系我们的<a href="tencent://message/?uin=2837822473&Site=小蚁客服&Menu=yes">客服QQ</a>或<a href="mailto:info@xiaoyichat.com">发送邮件</a>申请免费试用。<br><br>
                         2.客服将会马上联系您，获取了常见访客问题及答案后，帮你安装好聊天软件，试用开始。<br><br>
                         更多疑问请查看帮助： <a href="/faq">点击查看</a>
                     </p>

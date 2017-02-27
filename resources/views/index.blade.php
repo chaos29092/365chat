@@ -1,5 +1,8 @@
 @extends('master')
 
+@section('title',"小蚁客服 - 英语在线客服外包服务商")
+@section('description',"小蚁客服专注于服务中小外贸企业，提供专业的网站客服外包服务。提高网站转化率，获得海量询盘，降低企业运营成本。")
+
 @section('main')
 <!--Slider-->
 <section class="rev_slider_wrapper text-center">

@@ -1,5 +1,8 @@
 @extends('master')
 
+@section('title',"小蚁客服 - 套餐列表")
+@section('description',"小蚁客服套餐列表。")
+
 @section('main')
     <!--Page Header-->
     <section class="page_header padding-top">

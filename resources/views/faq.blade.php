@@ -1,4 +1,6 @@
 @extends('master')
+@section('title',"小蚁客服 - 帮助")
+@section('description',"小蚁客服帮助")
 
 @section('main')
     <!--Page Header-->
